@@ -1,6 +1,6 @@
 ### I'm Victor
 
-I'm a big Laravel and Statamic Fan.
+I'm a Laravel and Statamic fan.
 
 🥳
 
