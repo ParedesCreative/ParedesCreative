@@ -1,6 +1,6 @@
 ### I'm Victor
 
-I am a designer with a wholistic approach focusing on web, graphic & brand production. He is based in Portland, Oregon. I build with Laravel and advocate for Statamic. Find me here: https://victorpared.es
+I am a designer with a wholistic approach focusing on web, graphic & brand production. I am based in Portland, Oregon. I build with Laravel and advocate for Statamic. Find me here: https://victorpared.es
 
 🥳
 
