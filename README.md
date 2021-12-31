@@ -1,6 +1,6 @@
 ### I'm Victor
 
-I build with Laravel and advocate for Statamic.
+I am a designer with a wholistic approach focusing on web, graphic & brand production. He is based in Portland, Oregon. I build with Laravel and advocate for Statamic. Find me here: https://victorpared.es
 
 🥳
 
